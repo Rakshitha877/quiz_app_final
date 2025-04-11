@@ -1,0 +1,187 @@
+{
+  "general": [
+    {
+      "question": "What is the capital of France?",
+      "options": ["Paris", "London", "Berlin", "Madrid"],
+      "correct_answer": "Paris",
+      "difficulty": "easy",
+      "type": "mcq"
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Earth", "Mars", "Jupiter", "Venus"],
+      "correct_answer": "Mars",
+      "difficulty": "easy",
+      "type": "mcq"
+    },
+    {
+      "question": "Which language has the most native speakers?",
+      "options": ["English", "Mandarin", "Hindi", "Spanish"],
+      "correct_answer": "Mandarin",
+      "difficulty": "medium",
+      "type": "mcq"
+    },
+    {
+      "question": "What is the largest ocean on Earth?",
+      "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+      "correct_answer": "Pacific Ocean",
+      "difficulty": "medium",
+      "type": "mcq"
+    },
+    {
+      "question": "Who wrote 'Hamlet'?",
+      "options": ["William Shakespeare", "Charles Dickens", "Jane Austen", "Mark Twain"],
+      "correct_answer": "William Shakespeare",
+      "difficulty": "medium",
+      "type": "mcq"
+    }
+  ],
+  "science": [
+    {
+      "question": "What gas do plants absorb from the atmosphere?",
+      "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+      "correct_answer": "Carbon Dioxide",
+      "difficulty": "easy",
+      "type": "mcq"
+    },
+    {
+      "question": "Which part of the cell contains genetic material?",
+      "options": ["Cytoplasm", "Nucleus", "Mitochondria", "Ribosome"],
+      "correct_answer": "Nucleus",
+      "difficulty": "medium",
+      "type": "mcq"
+    },
+    {
+      "question": "What is the chemical symbol for gold?",
+      "options": ["Au", "Ag", "Gd", "Go"],
+      "correct_answer": "Au",
+      "difficulty": "medium",
+      "type": "mcq"
+    },
+    {
+      "question": "Which planet has the most moons?",
+      "options": ["Earth", "Mars", "Saturn", "Jupiter"],
+      "correct_answer": "Saturn",
+      "difficulty": "hard",
+      "type": "mcq"
+    },
+    {
+      "question": "What is the powerhouse of the cell?",
+      "options": ["Nucleus", "Ribosome", "Mitochondria", "Lysosome"],
+      "correct_answer": "Mitochondria",
+      "difficulty": "easy",
+      "type": "mcq"
+    }
+  ],
+  "tech": [
+    {
+      "question": "What does HTML stand for?",
+      "options": ["Hyper Trainer Marking Language", "Hyper Text Markup Language", "Hyper Text Marketing Language", "Hyper Transfer Markup Language"],
+      "correct_answer": "Hyper Text Markup Language",
+      "difficulty": "easy",
+      "type": "mcq"
+    },
+    {
+      "question": "Who is known as the father of the computer?",
+      "options": ["Charles Babbage", "Alan Turing", "Tim Berners-Lee", "Bill Gates"],
+      "correct_answer": "Charles Babbage",
+      "difficulty": "easy",
+      "type": "mcq"
+    },
+    {
+      "question": "Which company developed the Python programming language?",
+      "options": ["Microsoft", "Google", "Python Software Foundation", "Guido van Rossum"],
+      "correct_answer": "Guido van Rossum",
+      "difficulty": "medium",
+      "type": "mcq"
+    },
+    {
+      "question": "What does 'CPU' stand for?",
+      "options": ["Central Processing Unit", "Central Program Utility", "Computer Processing Unit", "Core Programming Unit"],
+      "correct_answer": "Central Processing Unit",
+      "difficulty": "easy",
+      "type": "mcq"
+    },
+    {
+      "question": "Which programming language is primarily used for Android development?",
+      "options": ["Swift", "Java", "Kotlin", "C#"],
+      "correct_answer": "Kotlin",
+      "difficulty": "medium",
+      "type": "mcq"
+    }
+  ],
+  "history": [
+    {
+      "question": "Who was the first President of the United States?",
+      "options": ["Thomas Jefferson", "George Washington", "Abraham Lincoln", "John Adams"],
+      "correct_answer": "George Washington",
+      "difficulty": "easy",
+      "type": "mcq"
+    },
+    {
+      "question": "In which year did World War II end?",
+      "options": ["1942", "1945", "1947", "1950"],
+      "correct_answer": "1945",
+      "difficulty": "medium",
+      "type": "mcq"
+    },
+    {
+      "question": "Who discovered America?",
+      "options": ["Vasco da Gama", "Christopher Columbus", "Amerigo Vespucci", "James Cook"],
+      "correct_answer": "Christopher Columbus",
+      "difficulty": "medium",
+      "type": "mcq"
+    },
+    {
+      "question": "Which country built the Great Wall?",
+      "options": ["India", "Egypt", "China", "Greece"],
+      "correct_answer": "China",
+      "difficulty": "easy",
+      "type": "mcq"
+    },
+    {
+      "question": "Who was the first man to step on the moon?",
+      "options": ["Buzz Aldrin", "Neil Armstrong", "Yuri Gagarin", "Michael Collins"],
+      "correct_answer": "Neil Armstrong",
+      "difficulty": "medium",
+      "type": "mcq"
+    }
+  ],
+  "sports": [
+    {
+      "question": "Which country won the FIFA World Cup in 2018?",
+      "options": ["Germany", "Brazil", "France", "Croatia"],
+      "correct_answer": "France",
+      "difficulty": "easy",
+      "type": "mcq"
+    },
+    {
+      "question": "How many players are there in a basketball team on the court?",
+      "options": ["5", "6", "7", "11"],
+      "correct_answer": "5",
+      "difficulty": "easy",
+      "type": "mcq"
+    },
+    {
+      "question": "Who has won the most Grand Slam titles in men's tennis (as of 2024)?",
+      "options": ["Roger Federer", "Rafael Nadal", "Novak Djokovic", "Andy Murray"],
+      "correct_answer": "Novak Djokovic",
+      "difficulty": "hard",
+      "type": "mcq"
+    },
+    {
+      "question": "Which sport is known as the 'King of Sports'?",
+      "options": ["Cricket", "Football", "Tennis", "Basketball"],
+      "correct_answer": "Football",
+      "difficulty": "medium",
+      "type": "mcq"
+    },
+    {
+      "question": "How many Olympic rings are there?",
+      "options": ["4", "5", "6", "7"],
+      "correct_answer": "5",
+      "difficulty": "easy",
+      "type": "mcq"
+    }
+  ]
+}
